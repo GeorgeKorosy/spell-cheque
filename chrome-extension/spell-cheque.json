@@ -1,0 +1,79 @@
+{
+  "currencyDescriptorState": {
+    "rollCall": [
+      {
+        "symbol": "$",
+        "wholeSingular": "dollar",
+        "wholePlural": "dollars",
+        "fractionalSingular": "cent",
+        "fractionalPlural": "cents"
+      },
+      {
+        "symbol": "€",
+        "wholeSingular": "euro",
+        "wholePlural": "euros",
+        "fractionalSingular": "cent",
+        "fractionalPlural": "cents"
+      },
+      {
+        "symbol": "£",
+        "wholeSingular": "pound",
+        "wholePlural": "pounds",
+        "fractionalSingular": "penny",
+        "fractionalPlural": "pennies"
+      },
+      {
+        "symbol": "R",
+        "wholeSingular": "rand",
+        "wholePlural": "rands",
+        "fractionalSingular": "cent",
+        "fractionalPlural": "cents"
+      },
+      {
+        "symbol": "₹",
+        "wholeSingular": "rupee",
+        "wholePlural": "rupees",
+        "fractionalSingular": "paisa",
+        "fractionalPlural": "paise"
+      },
+      {
+        "symbol": "₪",
+        "wholeSingular": "shekel",
+        "wholePlural": "shekels",
+        "fractionalSingular": "agora",
+        "fractionalPlural": "agorot"
+      }
+    ],
+
+    "defaultSelectionSymbol": "$"
+  },
+
+  "capitalisationFilterState": {
+    "defaultSelectionLabel": "Title Case"
+  },
+
+  "fractionalPresentationState": {
+    "defaultSelectionLabel": "Convert change to text",
+    "rollCall": [
+      "Convert change to text",
+      "Leave change numeric"
+    ]
+  },
+
+  "shortScales": [
+    "",
+    "thousand",
+    "million",
+    "billion",
+    "milliard",
+    "billiard",
+    "trillion",
+    "quadrillion"
+  ],
+
+  "rangeCheckLimit": {
+    "scaleCount": "auto",
+    "minimum": "auto",
+    "maximum": "auto"
+  }
+}
